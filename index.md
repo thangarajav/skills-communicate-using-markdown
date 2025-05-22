@@ -1,7 +1,16 @@
 
 # Thangaraja   mudiyalah
-# I m learning GITHUB 
+#### I m learning GITHUB 
 
+
+###### Code blocks
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ```
 How it looks
