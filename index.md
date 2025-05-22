@@ -2,4 +2,5 @@
 # I m learning GITHUB 
 
 
-This is just testing
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
